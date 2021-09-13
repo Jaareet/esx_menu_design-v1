@@ -4,7 +4,7 @@ game 'gta5'
 
 -- 
 
-description 'esx_menu_default Redesigned by ! canario™#0097'
+description 'esx_menu_default Redesigned by Jaareet#0097'
 
 files {
 	'**/**/**/*.*'
