@@ -1,0 +1,7 @@
+@font-face{
+	font-family: _font;
+	font-weight: 500;
+	src: url(
+		"nui://esx_menu_default/html/css/media/fonts/_fonts.ttf"
+	) format('truetype')
+}
