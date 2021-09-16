@@ -1,5 +1,5 @@
 Citizen.CreateThread(function()
-	local ESX = exports['jsx_framework']:getSharedObject()
+	local ESX = exports['es_extended']:getSharedObject()
 	local GUI, MenuType = {}, 'default'
 	GUI.Time = 0
 
